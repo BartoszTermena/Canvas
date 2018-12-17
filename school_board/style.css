@@ -1,0 +1,10 @@
+
+
+#settings { display: block; text-align:center}
+
+#paint {
+    background: url('./board2.jpg');
+    margin-left: auto; 
+    margin-right: auto; 
+    display: block;
+}
